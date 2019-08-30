@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "448479306015",
+    "firebase_url": "https://face-attendence.firebaseio.com",
+    "project_id": "face-attendence",
+    "storage_bucket": "face-attendence.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:448479306015:android:7aef3de95a2609c5",
+        "android_client_info": {
+          "package_name": "android.example.com.face_attendence"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "448479306015-kfj6toq4pir00nftfl7pltffklic3vks.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "android.example.com.face_attendence",
+            "certificate_hash": "214e7c1e547068f30145b22da50bb154c08034ac"
+          }
+        },
+        {
+          "client_id": "448479306015-eoa809q8k55p2sc2ab9dn0e4ueeo4ucn.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBwE7SXYQOE1uPUhnMW5DXmyd1Qpk9dp_g"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "448479306015-eoa809q8k55p2sc2ab9dn0e4ueeo4ucn.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
